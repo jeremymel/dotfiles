@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = melieresjeremy@gmail.com
+	name = Jeremy Melieres
